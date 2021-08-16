@@ -27,7 +27,7 @@ My approach is slightly different from the VTTA approach, which means the tools 
 ## Installation
 1. Copy this link and use it in Foundry's Module Manager to install the Module
 
-    > https://raw.githubusercontent.com/kelsa-gm/item-icon-updater/main/module.json
+    > https://raw.githubusercontent.com/TimPansino/item-icon-updater/main/module.json
     
 2. Enable the Module in your Worlds Module Settings
 
